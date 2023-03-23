@@ -1,0 +1,54 @@
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:24:12'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:24:32'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:25:11'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:30:46'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:30:59'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:35:43'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:36:01'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:37:13'
+}
+{
+  message: 'Example app listening on port 3000',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:37:46'
+}

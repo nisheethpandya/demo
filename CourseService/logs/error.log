@@ -1,0 +1,12 @@
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:24:32'
+}
+{
+  code: 'ERR_HTTP_HEADERS_SENT',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Mar-23-2023 08:36:01'
+}
